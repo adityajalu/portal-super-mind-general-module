@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008633803315",
+    "firebase_url": "https://simpelin-2301a.firebaseio.com",
+    "project_id": "myapp.portalsupermindgeneralmodule",
+    "storage_bucket": "myapp.portalsupermindgeneralmodule"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008633803315:android:48bc5abff2ee1f30",
+        "android_client_info": {
+          "package_name": "myapp.portalsupermindgeneralmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008633803315-l00dq3golda41u217rpres4evcqcl3t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlP4j9_dN9is20KkHcM2jp6aQ4mOAQXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008633803315-l00dq3golda41u217rpres4evcqcl3t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

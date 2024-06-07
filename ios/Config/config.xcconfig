@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = Portal Super Mind - General Module
+BUNDLE_IDENTIFIER = myapp.portalsupermindgeneralmodule
+
+RUNTIME_URL = https:\/\/dev-gm-super.mind.id/
+
+PRODUCT_NAME = PortalSuperMind
+
+HERMES_ENABLED = NO
